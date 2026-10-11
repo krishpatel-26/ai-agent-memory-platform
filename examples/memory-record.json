@@ -1,0 +1,10 @@
+{
+  "id": "mem_demo_001",
+  "tenant_id": "tenant_demo",
+  "kind": "preference",
+  "content": "Prefers concise technical summaries",
+  "source": "explicit_user_statement",
+  "observed_at": "2026-10-11T10:00:00Z",
+  "expires_at": null,
+  "sensitivity": "low"
+}
